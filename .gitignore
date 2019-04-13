@@ -1,0 +1,4 @@
+*.mp3
+
+# Mac OS
+.DS_Store
